@@ -12,7 +12,7 @@ const h2Html = document.querySelector(".member h2");
 const colorImages = ["img/s1.png", "img/s2.png", "img/s3.png"];
 const grayImages = ["img/s1a.png", "img/s2a.png", "img/s3a.png"];
 const names = ["Anna Bugart", "Makrek Feliksiak", "Arkadiusz Pawłowicz"];
-const professions = ["Programistka JS", "UX i Ui Designer", "Front-End Developer"];
+const professions = ["Programistka JS", "UX i Ui Designer", "Web Developer"];
 
 
 
