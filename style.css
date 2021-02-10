@@ -56,11 +56,11 @@ html {
 
 @media (min-width: 1025px) {
     .team h1 {
-        font-size: 8rem;
+        font-size: 7rem;
     }
     
     .team h2 {
-        font-size: 5rem;
+        font-size: 4rem;
     }
 }
 
