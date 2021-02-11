@@ -45,6 +45,7 @@ html {
     text-transform: uppercase;
     letter-spacing: 2px;
     animation: text 4s linear infinite;
+    user-select: none;
 }
 
 .team h1 {
